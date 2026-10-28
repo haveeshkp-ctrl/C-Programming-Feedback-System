@@ -1,0 +1,13 @@
+Feedback about C Programming :
+1. C programming helps improve logical thinking.
+2. I learned about variables and data types.
+3. Loops help reduce repetitive code.
+4. Functions make programs easier to understand.
+5. File handling helps store and retrieve data.
+
+Feedback about C Programming Teacher:
+1. The teacher explains concepts clearly.
+2. The teacher provides useful programming examples.
+3. Practical sessions help me understand coding.
+4. The teacher encourages students to practise.
+5. The classes help me improve my programming skills.
